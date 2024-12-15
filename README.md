@@ -1,10 +1,22 @@
-<h1 align="center">Hi 👋, I'm Ruturaj Veer</h1>
-<h3 align="center">
-  Passionate MCA Graduate | Full Stack Developer | Problem Solver
-</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ruturajveer143&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <h1 align="center">Hi 👋, I'm Ruturaj Veer</h1>
+  <img src="https://komarev.com/ghpvc/?username=ruturajveer143&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+  <br/>
+  <a href="https://twitter.com/ruturaj_143_" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&border-radius=50%" alt="Twitter">
+  </a>
+  <a href="https://linkedin.com/in/ruturaj-veer-143veer" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&border-radius=50%" alt="LinkedIn">
+  </a>
+  <a href="https://fb.com/ruturaj.veer.37" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&border-radius=50%" alt="Facebook">
+  </a>
+  <a href="https://instagram.com/ruturaj.143" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&border-radius=50%" alt="Instagram">
+  </a>
+  <a href="https://www.leetcode.com/vruturaj633" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black&border-radius=50%" alt="LeetCode">
+  </a>
 </p>
 
 ---
@@ -16,27 +28,6 @@
 - 💬 Ask me about: **Java, JavaScript, Node.js, React**
 - 🌟 Check out my portfolio: [My Portfolio](https://ruturajveer143.github.io/profile/)
 - 📫 Reach me at **vruturaj633@gmail.com**
-
----
-
-### 🌐 Connect with Me:
-<p align="left">
-  <a href="https://twitter.com/ruturaj_143_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://linkedin.com/in/ruturaj-veer-143veer" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://fb.com/ruturaj.veer.37" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="https://instagram.com/ruturaj.143" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.leetcode.com/vruturaj633" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-  </a>
-</p>
 
 ---
 
@@ -81,9 +72,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruturajveer143&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruturajveer143&theme=radical" alt="Detailed Profile Summary" />
 </p>
 
 ---
 
-### 🚀 Fun Fact:
-I love playing chess and exploring new technologies! 🕵️‍♂️♟️
+### 🚀 Fun Facts:
+- I love playing chess and trekking! 🕵️‍♂️♟️🏞️
+- I'm always exploring new technologies and ways to improve my coding skills. 💻✨
