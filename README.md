@@ -63,18 +63,16 @@
 </p>
 
 ---
-
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruturajveer143&show_icons=true&locale=en&theme=radical" alt="Ruturaj's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruturajveer143&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ruturajveer143&show_icons=true&locale=en&theme=radical" alt="Ruturaj's GitHub Stats" width="300" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruturajveer143&theme=radical" alt="GitHub Streak" width="300" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruturajveer143&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruturajveer143&theme=radical" alt="Detailed Profile Summary" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruturajveer143&layout=compact&theme=radical" alt="Top Languages" width="300" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruturajveer143&theme=radical" alt="Detailed Profile Summary" width="300" />
 </p>
-
 ---
 
 ### 🚀 Fun Facts:
