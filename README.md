@@ -73,8 +73,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruturajveer143&layout=compact&theme=radical" alt="Top Languages" width="300" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruturajveer143&theme=radical" alt="Detailed Profile Summary" width="300" />
 </p>
----
 
+---
 ### 🚀 Fun Facts:
 - I love playing chess and trekking! 🕵️‍♂️♟️🏞️
 - I'm always exploring new technologies and ways to improve my coding skills. 💻✨
