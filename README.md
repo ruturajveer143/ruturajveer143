@@ -23,7 +23,7 @@
 
 ### 👨‍💻 About Me:
 - 🎓 **MCA Graduate** with expertise in **Java**, **Object-Oriented Programming**, and **Data Structures & Algorithms**.
-- 🌐 Proficient in **Web Development**: HTML, CSS, JavaScript, and connecting to databases using **JDBC**.
+- 🌐 Proficient in **Web Development**: HTML, CSS, JavaScript,React node.js
 - 💡 Passionate about creating innovative solutions and exploring **Backend Development**.
 - 💬 Ask me about: **Java, JavaScript, Node.js, React**
 - 🌟 Check out my portfolio: [My Portfolio](https://ruturajveer143.github.io/profile/)
